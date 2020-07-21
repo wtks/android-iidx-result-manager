@@ -1,0 +1,1090 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="song_titles">
+        <item>!Viva!</item>
+        <item>#MAGiCVLGiRL_TRVP_B3VTZ</item>
+        <item>#The_Relentless</item>
+        <item>&amp; Intelligence</item>
+        <item>(This Is Not) The Angels</item>
+        <item>1001 -ESCAPE-</item>
+        <item>100％ minimoo-G</item>
+        <item>199024club -Re:BounceKiller-</item>
+        <item>1st Samurai</item>
+        <item>2 tribe 4 K</item>
+        <item>24th Century BOY</item>
+        <item>255</item>
+        <item>27th style</item>
+        <item>3y3s</item>
+        <item>405nm (Ryu☆mix)</item>
+        <item>50th Memorial Songs -The BEMANI History-</item>
+        <item>532nm</item>
+        <item>8bit Princess</item>
+        <item>A Tale Hidden In The Abyss</item>
+        <item>A</item>
+        <item>AA -rebuild-</item>
+        <item>AA</item>
+        <item>ABSOLUTE</item>
+        <item>ACCELERATE</item>
+        <item>AFRO KNUCKLE</item>
+        <item>AGAiN</item>
+        <item>AGEHA</item>
+        <item>AIR RAID FROM THA UNDAGROUND</item>
+        <item>AKASHIC BREAK</item>
+        <item>ALBA -黎明-</item>
+        <item>ALBIDA</item>
+        <item>ALFARSHEAR 双神威に廻る夢</item>
+        <item>ALL MY TURN -このターンに、オレの全てを賭ける-</item>
+        <item>ALL RIGHT</item>
+        <item>ANAGMA</item>
+        <item>ANAGRAMS I to Y</item>
+        <item>ANCHOR</item>
+        <item>ANDROMEDA II</item>
+        <item>ANDROMEDA</item>
+        <item>ANTHEM LANDING</item>
+        <item>AO-1</item>
+        <item>ASTRAL VOYAGE</item>
+        <item>ATHER</item>
+        <item>Abraxas</item>
+        <item>Abyss</item>
+        <item>Acid Pumper</item>
+        <item>Acidiva 303</item>
+        <item>Adularia</item>
+        <item>Aegis</item>
+        <item>Afterimage d\'automne</item>
+        <item>Almace</item>
+        <item>Almagest</item>
+        <item>Alpheratz</item>
+        <item>Amazing Mirage</item>
+        <item>Amor De Verao</item>
+        <item>Ancient Scapes</item>
+        <item>And-RoiD</item>
+        <item>Angelic Jelly</item>
+        <item>Angels &amp; Demons</item>
+        <item>Anisakis -somatic mutation type"Forza"-</item>
+        <item>Answer</item>
+        <item>Antigravity</item>
+        <item>Apocalypse ～dirge of swans～</item>
+        <item>Apocalypse</item>
+        <item>Arabian Rave Night</item>
+        <item>Arca</item>
+        <item>Arcana</item>
+        <item>Around The Galaxy</item>
+        <item>Around the Future</item>
+        <item>Ascalon</item>
+        <item>AsiaN distractive</item>
+        <item>Aublia</item>
+        <item>Aurora</item>
+        <item>B4U(BEMANI FOR YOU MIX)</item>
+        <item>BABY LOVE</item>
+        <item>BEAT PRISONER</item>
+        <item>BEAUTIFUL ANGEL</item>
+        <item>BITTER CHOCOLATE STRIKER</item>
+        <item>BLACK.by X-Cross Fade</item>
+        <item>BLOCKS</item>
+        <item>BLOSSOM</item>
+        <item>BLUE DRAGON(雷龍RemixIIDX)</item>
+        <item>BLUE MIRAGE</item>
+        <item>BLUE STRAGGLER</item>
+        <item>BRAINSTORM</item>
+        <item>BRAVE GLOW</item>
+        <item>BRAVE OUT</item>
+        <item>BREAK OVER</item>
+        <item>BREATH</item>
+        <item>BRIDAL FESTIVAL !!!</item>
+        <item>BROKEN EDEN</item>
+        <item>BabeL ～Grand Story～</item>
+        <item>Back Spin Sweeper</item>
+        <item>Backyard Stars</item>
+        <item>Bad Maniacs</item>
+        <item>Bahram Attack-猫叉Master Remix-</item>
+        <item>Battle Train -IIDX Edition-</item>
+        <item>Battleground</item>
+        <item>Be A Star</item>
+        <item>Be a Hero!</item>
+        <item>Be quiet</item>
+        <item>Beast mode</item>
+        <item>Beastie Starter</item>
+        <item>Beat Juggling Mix</item>
+        <item>Beat Radiance</item>
+        <item>Beautiful Harmony (IIDX Mix)</item>
+        <item>Believe In Me</item>
+        <item>Believe in you</item>
+        <item>Best of Me</item>
+        <item>Beyond The Earth</item>
+        <item>Beyond The Seven</item>
+        <item>Blame</item>
+        <item>Blaze it UP!</item>
+        <item>Blind Justice ～Torn souls， Hurt Faiths ～</item>
+        <item>Bloody Tears(IIDX EDITION)</item>
+        <item>Blue Rain</item>
+        <item>Blue Spring Express</item>
+        <item>Blueberry Stream</item>
+        <item>Boomy and The Boost</item>
+        <item>Bounce Bounce Bounce</item>
+        <item>Bow shock!!</item>
+        <item>Break Stasis</item>
+        <item>Breakin\' Chain</item>
+        <item>Breaking the ground</item>
+        <item>BroGamer</item>
+        <item>Broadbanded</item>
+        <item>Broken Sword</item>
+        <item>Broken</item>
+        <item>Burning Heat! (Full Option Mix)</item>
+        <item>CALL</item>
+        <item>CHECKING YOU OUT</item>
+        <item>CHRONO DIVER -NORNIR-</item>
+        <item>CODE:0</item>
+        <item>CODE:1 [revision1.0.1]</item>
+        <item>COLOSSEUM </item>
+        <item>CONCEPTUAL</item>
+        <item>CONTRACT</item>
+        <item>COSMIC CYBER</item>
+        <item>COSMIC☆WONDER☆REVOLUTION</item>
+        <item>CROSSROAD ～Left Story～</item>
+        <item>Calvados Queen</item>
+        <item>Candy Galy</item>
+        <item>CaptivAte2～覚醒～</item>
+        <item>CaptivAte～浄化～</item>
+        <item>CaptivAte～裁き～(SUBLIME TECHNO MIX)</item>
+        <item>CaptivAte～裁き～</item>
+        <item>CaptivAte～誓い～</item>
+        <item>Carmina</item>
+        <item>Carry Me Away</item>
+        <item>Castle on the Moon</item>
+        <item>Catch Our Fire!</item>
+        <item>Caterpillar</item>
+        <item>Central Station</item>
+        <item>Chain of pain</item>
+        <item>Change Yourself</item>
+        <item>Change the World</item>
+        <item>ChaserXX</item>
+        <item>Cheer Train</item>
+        <item>Chemical Cookie</item>
+        <item>Chrono Diver -PENDULUMs-</item>
+        <item>Chronos</item>
+        <item>City Never Sleeps (IIDX Edition)</item>
+        <item>Claiomh Solais</item>
+        <item>Cleopatrysm</item>
+        <item>Click Again</item>
+        <item>Clione</item>
+        <item>Close the World feat.a☆ru</item>
+        <item>CoMAAAAAAA</item>
+        <item>Colorful Cookie</item>
+        <item>Colors (radio edit)</item>
+        <item>Colors -Y&amp;Co. Eurobeat Remix-</item>
+        <item>Concertino in Blue</item>
+        <item>Confiserie</item>
+        <item>Cookie Bouquets</item>
+        <item>Cosmic Cat</item>
+        <item>Cranberry City ft. Luschel</item>
+        <item>Crank It</item>
+        <item>Critical Crystal</item>
+        <item>Cyber True Color</item>
+        <item>D.C.fish</item>
+        <item>D</item>
+        <item>DARK LEGACY</item>
+        <item>DAWN -THE NEXT ENDEAVOUR-</item>
+        <item>DAY DREAM</item>
+        <item>DAYDREAMER</item>
+        <item>DEADHEAT</item>
+        <item>DEATH†ZIGOQ ～怒りの高速爆走野郎～</item>
+        <item>DESIRE</item>
+        <item>DIAMOND CROSSING</item>
+        <item>DIAVOLO</item>
+        <item>DM STAR～関西 energy style～</item>
+        <item>DOMINION</item>
+        <item>DORNWALD ～Junge～</item>
+        <item>DROP</item>
+        <item>DRUNK MONKY</item>
+        <item>DUE TOMORROW</item>
+        <item>Daily Lunch Special</item>
+        <item>Daisuke</item>
+        <item>Damage Per Second</item>
+        <item>Dances with Snow Fairies</item>
+        <item>Dark Fall</item>
+        <item>Dazzlin\' Darlin-秋葉工房mix-</item>
+        <item>Dazzlin\' Darlin</item>
+        <item>Debtty Daddy</item>
+        <item>Derelict Star feat. Ryu*</item>
+        <item>Despair of ELFERIA</item>
+        <item>Destiny Sword</item>
+        <item>Devil\'s Gear</item>
+        <item>Devilz Sacrifice -贖罪の羊-</item>
+        <item>Devilz Staircase</item>
+        <item>Digital MinD(A/T Libra mix)</item>
+        <item>Digital Skipper</item>
+        <item>Digitank System</item>
+        <item>Discloze</item>
+        <item>Do What You Want</item>
+        <item>Do it!! Do it!!</item>
+        <item>DoLL</item>
+        <item>Don\'t be afraid myself</item>
+        <item>Donkey Donk</item>
+        <item>Double Dribble</item>
+        <item>Dr. Chemical &amp; Killing Machine</item>
+        <item>Drastic Dramatic</item>
+        <item>Drive Me Crazy</item>
+        <item>Drop It</item>
+        <item>DropZ-Line-</item>
+        <item>Duration</item>
+        <item>Dynamite</item>
+        <item>EBONY &amp; IVORY</item>
+        <item>ECHIDNA</item>
+        <item>EDEN</item>
+        <item>ELECTRIC MASSIVE DIVER</item>
+        <item>EMERALDAS</item>
+        <item>EURO-ROMANCE</item>
+        <item>EVANESCENT</item>
+        <item>EXCITE</item>
+        <item>EXE</item>
+        <item>EXTREME MACH COLLIDER</item>
+        <item>EXUSIA</item>
+        <item>Egret and Willow</item>
+        <item>Eine Haube ～聖地の果てにあるもの～</item>
+        <item>Elektrick U-Phoria</item>
+        <item>Element of SPADA</item>
+        <item>Elemental Creation</item>
+        <item>Elisha</item>
+        <item>Ember Lights</item>
+        <item>Empire State Glory</item>
+        <item>Energy Drive</item>
+        <item>Engraved Mark</item>
+        <item>Erosion Mark  </item>
+        <item>Eternal Tears</item>
+        <item>Evans</item>
+        <item>Everlasting Last</item>
+        <item>Everlasting Message</item>
+        <item>Everlasting Resort</item>
+        <item>Exchange Place</item>
+        <item>Exhaust Hype</item>
+        <item>Expanded !!</item>
+        <item>Express Emotion</item>
+        <item>F</item>
+        <item>FAKE TIME</item>
+        <item>FANTASTIC THREE</item>
+        <item>FEEL IT</item>
+        <item>FIRE BALL</item>
+        <item>FIRE FIRE</item>
+        <item>FLOWER</item>
+        <item>FLOWERS for ALBION</item>
+        <item>FREEDOM</item>
+        <item>FUZIN RIZIN</item>
+        <item>Fantasia</item>
+        <item>Far east nightbird</item>
+        <item>Fascination MAXX</item>
+        <item>Feedback</item>
+        <item>Feel The Beat</item>
+        <item>Fervidex</item>
+        <item>Flashes</item>
+        <item>Flip Flap</item>
+        <item>Fly Above (Vicissitude Remix)</item>
+        <item>Fly Above</item>
+        <item>Fly you to the star</item>
+        <item>Follow Tomorrow</item>
+        <item>From Time To Time</item>
+        <item>Funny shuffle</item>
+        <item>G2</item>
+        <item>G59</item>
+        <item>GAIA</item>
+        <item>GALGALIM</item>
+        <item>GENE</item>
+        <item>GENERATE feat.綾倉盟</item>
+        <item>GENOCIDE</item>
+        <item>GIGA THRASH</item>
+        <item>GIGA VIOLATE</item>
+        <item>GO OVER WITH GLARE -ROOTAGE 26-</item>
+        <item>GOBBLE</item>
+        <item>GOLD RUSH</item>
+        <item>GOLDEN CROSS</item>
+        <item>GRADIUS -FULL SPEED-</item>
+        <item>GRADIUS 2012</item>
+        <item>GRID KNIGHT</item>
+        <item>Ganymede</item>
+        <item>Garuda</item>
+        <item>Geirskogul</item>
+        <item>Get Up! feat. Kanae Asaba</item>
+        <item>Giudecca</item>
+        <item>Glitch Nerds</item>
+        <item>Glorious Days</item>
+        <item>Glory</item>
+        <item>Go Ahead!!</item>
+        <item>Go Beyond!!</item>
+        <item>Go Faraway</item>
+        <item>Godspeed</item>
+        <item>Golden Palms</item>
+        <item>Grand Chariot</item>
+        <item>Gravigazer</item>
+        <item>GuNGNiR</item>
+        <item>HADES</item>
+        <item>HAERETICUS</item>
+        <item>HAPPY★RUSH</item>
+        <item>HAPPY☆ANGEL</item>
+        <item>HARD BRAIN</item>
+        <item>HAT TRICK</item>
+        <item>HEISEI</item>
+        <item>HELL SCAPER -Last Escape Remix-</item>
+        <item>HIGH</item>
+        <item>HOT LIMIT</item>
+        <item>HYENA</item>
+        <item>HYPE THE CORE</item>
+        <item>HYPERION</item>
+        <item>Halfway of promise</item>
+        <item>Harmony and Lovely</item>
+        <item>Hello Happiness</item>
+        <item>High School Love</item>
+        <item>Highcharge Divolt</item>
+        <item>Hitch Hiker2</item>
+        <item>Hold My Hand</item>
+        <item>Holic</item>
+        <item>Hollywood Galaxy</item>
+        <item>Honey Trap</item>
+        <item>Howling</item>
+        <item>Hurry Hurry</item>
+        <item>Hyper Drive feat. ぷにぷに電機</item>
+        <item>Hypersonik</item>
+        <item>I FIGHT ME</item>
+        <item>I Love You</item>
+        <item>I Was The One (80\'s EUROBEAT STYLE)</item>
+        <item>I Was The One</item>
+        <item>I am</item>
+        <item>I will be back -オレは帰ってきた-</item>
+        <item>ICARUS</item>
+        <item>IDC feat.REVERBEE (Mo\'Cuts Ver)</item>
+        <item>IDOL syndrome.</item>
+        <item>ILIAS</item>
+        <item>IMPLANTATION</item>
+        <item>INAZUMA</item>
+        <item>INORI</item>
+        <item>INSOMNIA</item>
+        <item>INVISIBLE STRIX</item>
+        <item>IX</item>
+        <item>IXION</item>
+        <item>I\'m Coming (2017 Version)</item>
+        <item>I\'m so Happy</item>
+        <item>Idola </item>
+        <item>Illegal Function Call</item>
+        <item>Illusionary Waterlily</item>
+        <item>In Heaven</item>
+        <item>In The Breeze</item>
+        <item>In the Blackest Den</item>
+        <item>Indigo Vision(full flavour hide around mix)</item>
+        <item>Inferno of Fomalhaut</item>
+        <item>Infinity Mirror</item>
+        <item>Initiation</item>
+        <item>Inner Spirit</item>
+        <item>Innocent Walls</item>
+        <item>Insane Techniques</item>
+        <item>Invitation from Mr.C</item>
+        <item>JOMANDA</item>
+        <item>Jack</item>
+        <item>Journey</item>
+        <item>Just a Little Smile</item>
+        <item>KAISER PHOENIX</item>
+        <item>KAMAITACHI</item>
+        <item>KAMIKAZE</item>
+        <item>KEY</item>
+        <item>KHAMEN BREAK</item>
+        <item>KILL EACH OTHER</item>
+        <item>Kailua</item>
+        <item>Keep it-秋葉工房mix-</item>
+        <item>Kick Out 仮面</item>
+        <item>Konzert V</item>
+        <item>Kung-fu Empire</item>
+        <item>L.F.O</item>
+        <item>LAB</item>
+        <item>LADYBIRD</item>
+        <item>LASER CRUSTER (IGNITE REMIX)</item>
+        <item>LASER CRUSTER</item>
+        <item>LEADING CYBER</item>
+        <item>LETHEBOLG ～双神威に斬り咲けり～</item>
+        <item>LIGHTNING STRIKES</item>
+        <item>LOST TECHNOLOGIE</item>
+        <item>LOVE B.B.B</item>
+        <item>LOVE IS ORANGE</item>
+        <item>LOVE SHINE</item>
+        <item>LOVE WILL・・・</item>
+        <item>LUV CAN SAVE U</item>
+        <item>LUV DRIVE</item>
+        <item>Last Burning</item>
+        <item>Last Dance</item>
+        <item>Leaving...</item>
+        <item>Let The Track Flow</item>
+        <item>Let me be your cure</item>
+        <item>Let\'s Bounce !!</item>
+        <item>Lethal Weapon</item>
+        <item>Level 2</item>
+        <item>Level One</item>
+        <item>Liberation</item>
+        <item>Life Is A Game ft.DD""ナカタ""Metal"</item>
+        <item>Light Shine</item>
+        <item>Light and Cyber…</item>
+        <item>Lighting Shower</item>
+        <item>Like+it!</item>
+        <item>Line 4 Ruin</item>
+        <item>Linus</item>
+        <item>Liquid Crystal Girl feat. echo</item>
+        <item>Little Little Princess</item>
+        <item>Little Star</item>
+        <item>Lords Of The Roundtable</item>
+        <item>Lost wing at.0</item>
+        <item>Love Is Eternity</item>
+        <item>Lucy</item>
+        <item>M.D.Injection</item>
+        <item>M4K3 1T B0UNC3</item>
+        <item>MAD ATTACK</item>
+        <item>MAGIC &amp; LOVE</item>
+        <item>MAX LOVE</item>
+        <item>MAXIVCORD</item>
+        <item>MENDES</item>
+        <item>MENTAL MELTDOWN</item>
+        <item>MINT</item>
+        <item>MIRACLE MEETS</item>
+        <item>MOON RACE</item>
+        <item>MOON</item>
+        <item>Macho Gang</item>
+        <item>Macho Monky</item>
+        <item>Macuilxochitl</item>
+        <item>Magical</item>
+        <item>Make A Difference</item>
+        <item>Make Me Your Own</item>
+        <item>Mare Nectaris</item>
+        <item>Matt Silver</item>
+        <item>Medicine of love</item>
+        <item>Mel</item>
+        <item>Mermaid girl-秋葉工房 MIX-</item>
+        <item>Mermaid girl</item>
+        <item>Midnight Lady</item>
+        <item>Mind Mapping</item>
+        <item>Mira</item>
+        <item>Miracle 5ympho X</item>
+        <item>Modular Technology</item>
+        <item>Monkey Dance</item>
+        <item>Monopole.</item>
+        <item>Moving on</item>
+        <item>Music is The Answer</item>
+        <item>NANAIRO</item>
+        <item>NEMESIS</item>
+        <item>NEO GENERATOR SEVEN</item>
+        <item>NEW GENERATION -もう、お前しか見えない-</item>
+        <item>NEW SENSATION -もう、あなたしか見えない-</item>
+        <item>NINJA IS DEAD IIDX ver.</item>
+        <item>NITROUS CANNON</item>
+        <item>NNRT</item>
+        <item>NO LIMIT -オレ達に限界は無い-</item>
+        <item>NPC World</item>
+        <item>NRG STAR \'86 feat. 大山愛未</item>
+        <item>NZM</item>
+        <item>Narcissus At Oasis</item>
+        <item>Nasty Techniques</item>
+        <item>Necroxis Girl</item>
+        <item>Never Fade Away</item>
+        <item>New Castle Legions</item>
+        <item>New Decade IIDX Edition</item>
+        <item>New Lights</item>
+        <item>Next Tales 2 Oath (IIDX 20th Anniv "Ring" Theme)</item>
+        <item>Night sky</item>
+        <item>Night! Night! Night!</item>
+        <item>Nightmare before oversleep</item>
+        <item>No Limit 2 dAnce feat. 大山愛未</item>
+        <item>No Tears</item>
+        <item>No.13</item>
+        <item>NoN-Fiction Story!</item>
+        <item>Nothing but Theory</item>
+        <item>Nowhere</item>
+        <item>NΦ CRIME</item>
+        <item>O/D*20</item>
+        <item>ONIGOROSHI</item>
+        <item>OOO</item>
+        <item>OTENAMI Hurricane</item>
+        <item>OUTER PLANETS</item>
+        <item>OVER TIME</item>
+        <item>Odin</item>
+        <item>Ohayo!</item>
+        <item>On My Wings(Hardstyle IIDX)</item>
+        <item>On the FM</item>
+        <item>One More Lovely</item>
+        <item>Only for now</item>
+        <item>Outbreak</item>
+        <item>Overload Frontier</item>
+        <item>Override</item>
+        <item>PAPAYAPA BASS</item>
+        <item>PARADISE LOST</item>
+        <item>PARANOiA ～HADES～</item>
+        <item>PENDUAL TALISMAN</item>
+        <item>PHASE SHIFT MANEUVER</item>
+        <item>PHOTONGENIC</item>
+        <item>PLEASE DON\'T GO</item>
+        <item>POINT ZERO</item>
+        <item>POODLE</item>
+        <item>POP TEAM EPIC(kors k Remix)</item>
+        <item>POSSESSION</item>
+        <item>PROMISE FOR LIFE</item>
+        <item>PUNISHER</item>
+        <item>Painful Fate</item>
+        <item>Papilio ulysses</item>
+        <item>Particle Arts</item>
+        <item>Persephone</item>
+        <item>Pharaoh</item>
+        <item>Phoenix</item>
+        <item>Pink Rose</item>
+        <item>Plan 8</item>
+        <item>Playing With Fire</item>
+        <item>Please Welcome Mr.C</item>
+        <item>Pollinosis</item>
+        <item>Presto</item>
+        <item>Primitive Vibes</item>
+        <item>Programmed Sun</item>
+        <item>Programmed World</item>
+        <item>Proof of the existence</item>
+        <item>Psycho Sheep Riddim</item>
+        <item>QUANTUM TELEPORTATION</item>
+        <item>Quakes</item>
+        <item>Queen\'s Tragedy</item>
+        <item>Quick Silver</item>
+        <item>Quickening</item>
+        <item>R5</item>
+        <item>RAIN</item>
+        <item>RED ZONE</item>
+        <item>REINCARNATION</item>
+        <item>REMINISCENCE</item>
+        <item>RESONATE 1794</item>
+        <item>REVOLVER</item>
+        <item>RISE</item>
+        <item>RISING FIRE HAWK</item>
+        <item>RISLIM -Remix-</item>
+        <item>RIZING YOU UP</item>
+        <item>ROCK女 feat. 大山愛未， Ken</item>
+        <item>ROTTERDAM SHOGUN</item>
+        <item>ROZA DE ANDALUCIA</item>
+        <item>RUGGED ASH</item>
+        <item>Rainbow after snow</item>
+        <item>Rainstorm</item>
+        <item>Raison d\'etre～交差する宿命～</item>
+        <item>Rampage</item>
+        <item>Raspberry Heart(English version)</item>
+        <item>Raspberry Railgun</item>
+        <item>Rave Cannon</item>
+        <item>Rave Patroller</item>
+        <item>Rave lithosphere</item>
+        <item>Rave*it!! Rave*it!! </item>
+        <item>Re:GENERATION</item>
+        <item>Realize Maze</item>
+        <item>Recollection</item>
+        <item>Red. by Full Metal Jacket</item>
+        <item>Red. by Jack Trance</item>
+        <item>Reflux</item>
+        <item>Release The Music</item>
+        <item>Remedy feat. Kanae Asaba</item>
+        <item>Rise Circuit</item>
+        <item>Ristaccia</item>
+        <item>Rock Da House</item>
+        <item>Rock It</item>
+        <item>Round and Round</item>
+        <item>Routing</item>
+        <item>R∞tAge</item>
+        <item>S!ck</item>
+        <item>SABER WING</item>
+        <item>SAMSARA</item>
+        <item>SAMURAI-Scramble</item>
+        <item>SAY BAY</item>
+        <item>SCHWARZSCHILD FIELD</item>
+        <item>SCREAM SQUAD</item>
+        <item>SCREW // owo // SCREW</item>
+        <item>SEITEN NO TERIYAKI</item>
+        <item>SEQUENCE CAT</item>
+        <item>SHADE</item>
+        <item>SHELTER OF THE MIND</item>
+        <item>SHION</item>
+        <item>SHOX</item>
+        <item>SINOBUZ Fantasy</item>
+        <item>SNOW</item>
+        <item>SOLID STATE SQUAD</item>
+        <item>SOUND OF GIALLARHORN</item>
+        <item>SPACE FIGHT</item>
+        <item>SPECIAL SUMMER CAMPAIGN!</item>
+        <item>SPEED DEMON</item>
+        <item>SPEED ROCKER</item>
+        <item>SPEED</item>
+        <item>STAR FIELD</item>
+        <item>STARLIGHT DANCEHALL</item>
+        <item>STARLIGHT JUNCTION</item>
+        <item>STARLiGHT</item>
+        <item>STEEL NEEDLE</item>
+        <item>STELLAR WIND</item>
+        <item>STILL IN MY HEART</item>
+        <item>STOIC HYPOTHESIS</item>
+        <item>STULTI</item>
+        <item>SUNLiGHT (IIDX Mix)</item>
+        <item>SURVIVOR</item>
+        <item>SWEET LAB</item>
+        <item>SWEETEST SAVAGE</item>
+        <item>SYNC-ANTHEM</item>
+        <item>Sakura Mirage</item>
+        <item>Sakura Reflection</item>
+        <item>Sarutobi Champion is 拙者</item>
+        <item>Saturn</item>
+        <item>Say YEEEAHH</item>
+        <item>Scarlet Moon</item>
+        <item>Scars of FAUNA</item>
+        <item>Scharfrichter</item>
+        <item>Scripted Connection⇒ A mix</item>
+        <item>Scripted Connection⇒ H mix</item>
+        <item>Scripted Connection⇒ N mix</item>
+        <item>Seaside Labyrinth</item>
+        <item>Second Heaven</item>
+        <item>Secret of Love</item>
+        <item>Secrets</item>
+        <item>Seize the Day</item>
+        <item>Selfish Sweet</item>
+        <item>Sense 2007</item>
+        <item>Sephirot</item>
+        <item>Serious?</item>
+        <item>Session 1 -Genesis-</item>
+        <item>Session 9 -Chronicles-</item>
+        <item>Set U Free feat. Kanae Asaba</item>
+        <item>Several Words</item>
+        <item>Shining World</item>
+        <item>Shiva</item>
+        <item>Shoot\'Em All</item>
+        <item>Shooting Fireball</item>
+        <item>SigSig</item>
+        <item>Sigmund</item>
+        <item>Silly Love</item>
+        <item>Ska-sh All Neurons!!</item>
+        <item>Sky High</item>
+        <item>Sleepless days</item>
+        <item>Slipstream</item>
+        <item>Snake Stick</item>
+        <item>Snakey Kung-fu</item>
+        <item>Snow Goose</item>
+        <item>So Fabulous !!</item>
+        <item>Sol Cosine Job 2</item>
+        <item>Son， not gabba now</item>
+        <item>Sorrows</item>
+        <item>Sounds Of Summer </item>
+        <item>SpaceLand☆TOYBOX</item>
+        <item>Sphere</item>
+        <item>Spica</item>
+        <item>Squeeze</item>
+        <item>Star Trail</item>
+        <item>Starry Night</item>
+        <item>State Of The Art</item>
+        <item>Static State</item>
+        <item>Stay my side</item>
+        <item>Steel Edge</item>
+        <item>StrayedCatz</item>
+        <item>Sugar Drippin\'</item>
+        <item>Summerlights(IIDX Edition)</item>
+        <item>Sun Field</item>
+        <item>Super Rush</item>
+        <item>Sweet Clapper</item>
+        <item>Sweet Radar</item>
+        <item>Symmetry</item>
+        <item>Synergy For Angels</item>
+        <item>T-REX vs Velociraptor (In the Far east euphoria)</item>
+        <item>TA・DA ☆ YO・SHI</item>
+        <item>TECHNO Style Essentials</item>
+        <item>THANK YOU FOR PLAYING</item>
+        <item>THE BLACK KNIGHT</item>
+        <item>THE BRAVE MUST DIE</item>
+        <item>THE CANNONBALLER</item>
+        <item>THE DAY OF JUBILATIONS</item>
+        <item>THE DEEP STRIKER</item>
+        <item>THE DETONATOR</item>
+        <item>THE DOOR INTO RAINBOW</item>
+        <item>THE EARTH LIGHT</item>
+        <item>THE FALLEN</item>
+        <item>THE F∀UST</item>
+        <item>THE LAST STRIKER</item>
+        <item>THE SAFARI</item>
+        <item>TIEFSEE</item>
+        <item>TITANS RETURN</item>
+        <item>TOGAKUSHI</item>
+        <item>TOXIC VIBRATION</item>
+        <item>TRANOID</item>
+        <item>TRIUMPH</item>
+        <item>TROOPERS</item>
+        <item>TYPE MARS(G-Style Mix)</item>
+        <item>Take It Easy</item>
+        <item>Take My Life</item>
+        <item>Tangerine Stream</item>
+        <item>Temple of Anubis</item>
+        <item>The Best of Both Worlds</item>
+        <item>The Chase</item>
+        <item>The Commanders</item>
+        <item>The Dirty of Loudness</item>
+        <item>The Hope of Tomorrow</item>
+        <item>The Least 100sec</item>
+        <item>The Limbo</item>
+        <item>The Rebellion of Sequencer</item>
+        <item>The Revolution (VIP Mix)</item>
+        <item>The Sampling Paradise</item>
+        <item>The Sealer ～ア・ミリアとミリアの民～</item>
+        <item>Theory</item>
+        <item>Thor\'s Hammer</item>
+        <item>Thunderbolt</item>
+        <item>Time To Empress</item>
+        <item>Time to Air</item>
+        <item>Timepiece phase II (CN Ver.)</item>
+        <item>Timepiece phase II</item>
+        <item>To my star</item>
+        <item>Todestrieb</item>
+        <item>ToyCube Pf.(RX-Ver.S.P.L.)</item>
+        <item>Trill auf G</item>
+        <item>Triple Counter</item>
+        <item>Tropical April</item>
+        <item>True Blue</item>
+        <item>Turii ～Panta rhei～</item>
+        <item>Twelfth Style</item>
+        <item>Twilight Warp</item>
+        <item>U.S.A.</item>
+        <item>UMMU</item>
+        <item>UNDERWORLD HOLOGRAPHY</item>
+        <item>UNITE THE HEART</item>
+        <item>Ubertreffen</item>
+        <item>Uh-Oh</item>
+        <item>Umbral</item>
+        <item>Unbelief</item>
+        <item>Under the Sky</item>
+        <item>Unicorn tail</item>
+        <item>Urban Constellations</item>
+        <item>Usual Days-remix</item>
+        <item>V2</item>
+        <item>V</item>
+        <item>VALKYRIAS -英雄誕生-</item>
+        <item>VALLIS-NERIA</item>
+        <item>VANESSA</item>
+        <item>VEGA</item>
+        <item>VIBRΛ</item>
+        <item>VOX RUSH</item>
+        <item>VOX UP</item>
+        <item>Valanga</item>
+        <item>Valgus</item>
+        <item>Venom</item>
+        <item>Verflucht</item>
+        <item>Vermillion</item>
+        <item>Vinculum stellarum</item>
+        <item>Violet Pulse</item>
+        <item>Violet Rose</item>
+        <item>Virus Funk</item>
+        <item>Visterhv</item>
+        <item>Volcanic Dragon</item>
+        <item>Voltage (feat. Hidemaru)</item>
+        <item>Voxane</item>
+        <item>Vulkan</item>
+        <item>WISH(EUROBEAT MIX)</item>
+        <item>WONDER WALKER</item>
+        <item>Wanna Party?</item>
+        <item>Watch Out Pt.2</item>
+        <item>Watch out!!</item>
+        <item>We are Disっ娘よっつ打ち命</item>
+        <item>We\'re so Happy (P*Light Remix) IIDX ver.</item>
+        <item>Welcome</item>
+        <item>Why did you go away</item>
+        <item>Wing of Hearts</item>
+        <item>With your Smile</item>
+        <item>Wolf 1061</item>
+        <item>Won(*3*)Chu KissMe!</item>
+        <item>Wonder Bullfighter</item>
+        <item>Wonder Girl feat. Kanae Asaba</item>
+        <item>Wonderland</item>
+        <item>Wuv U</item>
+        <item>X-DEN</item>
+        <item>X</item>
+        <item>XANADU OF TWO</item>
+        <item>XENON II ～TOMOYUKIの野望～</item>
+        <item>XINOBIKILL</item>
+        <item>Xepher</item>
+        <item>Xlo</item>
+        <item>Xperanza</item>
+        <item>Y&amp;Co. is dead or alive</item>
+        <item>YAKSHA</item>
+        <item>Yellow Sketch(RX-Ver.S.P.L.)</item>
+        <item>Yellow Sunrise</item>
+        <item>You\'ll say "Now!"</item>
+        <item>Yum Yum Jelly</item>
+        <item>ZED</item>
+        <item>ZENDEGI DANCE</item>
+        <item>ZEPHYRANTHES</item>
+        <item>ZERO-ONE</item>
+        <item>ZETA～素数の世界と超越者～</item>
+        <item>ZZ</item>
+        <item>Zenius -I- vanisher</item>
+        <item>Zirkfied</item>
+        <item>airflow</item>
+        <item>alla turca con passione</item>
+        <item>bass 2 bass</item>
+        <item>beatAffection</item>
+        <item>beatchic☆仮面～好き、でいさせて～</item>
+        <item>beatonic nation</item>
+        <item>being torn the sky</item>
+        <item>bloomin\' feeling</item>
+        <item>chaos eater -IIDX edition-</item>
+        <item>chrono diver -fragment-</item>
+        <item>cinder</item>
+        <item>connective</item>
+        <item>crew</item>
+        <item>dAuntl3ss</item>
+        <item>desolation</item>
+        <item>diagram</item>
+        <item>do the thing feat. Kanae Asaba</item>
+        <item>eRAseRmOToRpHAntOM</item>
+        <item>earth scape</item>
+        <item>elemental bender feat. Kanae Asaba</item>
+        <item>encounter</item>
+        <item>end of world</item>
+        <item>entelecheia</item>
+        <item>era (nostalmix)</item>
+        <item>examination leave</item>
+        <item>fallen leaves -IIDX edition-</item>
+        <item>fffff</item>
+        <item>four pieces of heaven</item>
+        <item>garden</item>
+        <item>gigadelic</item>
+        <item>illuminate</item>
+        <item>in the Sky</item>
+        <item>into the battlefield</item>
+        <item>invoker</item>
+        <item>m1dy Deluxe</item>
+        <item>m1dy Festival</item>
+        <item>moon_child</item>
+        <item>mosaic</item>
+        <item>murmur twins</item>
+        <item>n\'pa pa BBQ</item>
+        <item>naughty girl@Queen\'s Palace</item>
+        <item>neogenesis</item>
+        <item>neu</item>
+        <item>nostos</item>
+        <item>one or eight</item>
+        <item>op.31 叙情</item>
+        <item>oratio</item>
+        <item>passionate fate</item>
+        <item>perditus†paradisus</item>
+        <item>planarian</item>
+        <item>prompt</item>
+        <item>quasar</item>
+        <item>quaver♪</item>
+        <item>quell～the seventh slave～</item>
+        <item>quick master (reform version)</item>
+        <item>ra\'am</item>
+        <item>rage against usual</item>
+        <item>rainbow flyer</item>
+        <item>rainbow guitar weeps</item>
+        <item>rainbow rainbow</item>
+        <item>refractive index</item>
+        <item>refrain</item>
+        <item>reunion</item>
+        <item>rottel-da-sun</item>
+        <item>ruin of opals</item>
+        <item>rumrum triplets</item>
+        <item>sakura storm</item>
+        <item>satellite020712 from "CODED ARMS"</item>
+        <item>satfinal</item>
+        <item>shuriken</item>
+        <item>smile</item>
+        <item>smooooch・∀・</item>
+        <item>snow storm</item>
+        <item>spiral galaxy</item>
+        <item>starmine</item>
+        <item>stoic</item>
+        <item>switch</item>
+        <item>the shadow</item>
+        <item>the trigger of innocence</item>
+        <item>traces</item>
+        <item>tripping contact(teranoid&amp;MC Natsack Remix)</item>
+        <item>voltississimo</item>
+        <item>waxing and wanding</item>
+        <item>xenon</item>
+        <item>yamabiko (SINOBUZ Edition)</item>
+        <item>yellow head joe</item>
+        <item>ΕΛΠΙΣ</item>
+        <item>†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT)</item>
+        <item>〆</item>
+        <item>うさ☆かめ 大戦争！</item>
+        <item>おおきなこえで</item>
+        <item>おーまい！らぶりー！すうぃーてぃ！だーりん！</item>
+        <item>お米の美味しい炊き方、そしてお米を食べることによるその効果。</item>
+        <item>お菓子の王国</item>
+        <item>お願いアインシュタイン</item>
+        <item>かげぬい ～ Ver.BENIBOTAN ～</item>
+        <item>か・し・ま・し☆PUMP UP！</item>
+        <item>がっつり陰キャ!? 怪盗いいんちょの億劫^^;</item>
+        <item>それは花火のような恋</item>
+        <item>たからもの</item>
+        <item>たまゆら</item>
+        <item>ちらちら・はらはら</item>
+        <item>とろぴかる倶楽部</item>
+        <item>ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！</item>
+        <item>めいさいアイドル☆あいむちゃん♪</item>
+        <item>もっと！モット！ときめき feat. 松下</item>
+        <item>アストライアの双皿</item>
+        <item>アルストロメリア</item>
+        <item>イザナミノナゲキ</item>
+        <item>エコ爺</item>
+        <item>エディブルフラワーの独白</item>
+        <item>オルタネイトβ</item>
+        <item>オレはビートマニア！お前は何マニア？</item>
+        <item>カゴノトリ～弐式～</item>
+        <item>カジノファイヤーことみちゃん</item>
+        <item>ガヴリールドロップキック</item>
+        <item>キャトられ恋はモ～モク</item>
+        <item>ギョギョっと人魚 爆婚ブライダル</item>
+        <item>クルクル☆ラブ～Opioid Peptide MIX～</item>
+        <item>グラナダの風</item>
+        <item>コスモス</item>
+        <item>サクラあっぱれーしょん</item>
+        <item>サヨナラ・ヘヴン</item>
+        <item>シムルグの目醒め</item>
+        <item>シュッパツシンコウ・シサカンコ</item>
+        <item>シュレーディンガーの猫</item>
+        <item>セカンドピアス</item>
+        <item>セピアの軌跡 ft. 天宮みや(少女フラクタル)</item>
+        <item>セロトニン</item>
+        <item>ディッシュウォッシャー◎彡おいわちゃん</item>
+        <item>デッドボヲルdeホームラン</item>
+        <item>トリカゴノ鳳凰</item>
+        <item>ドッキン☆サマーあばんちゅーる</item>
+        <item>ナイトシティー・アヴァンチュール</item>
+        <item>ハイ*ビスカス ft. Kanae Asaba</item>
+        <item>ハードベース・フェスタ</item>
+        <item>バ→ビ→ブ→Bomb!</item>
+        <item>バスルーム ロマンス</item>
+        <item>バンブーソード・ガール</item>
+        <item>パ→ピ→プ→Yeah!</item>
+        <item>パラドキシカル・タイムリープトライアル(Short Ver.)</item>
+        <item>ヒマワリ</item>
+        <item>ビューティフルレシート</item>
+        <item>ピアノ協奏曲第1番”蠍火” (BlackY Remix)</item>
+        <item>ピアノ協奏曲第１番”蠍火”</item>
+        <item>ベィスドロップ・フリークス</item>
+        <item>ミストレス・アンに花束を</item>
+        <item>ミッドナイト☆WAR</item>
+        <item>ミッドナイト堕天使</item>
+        <item>メイメツ、フラグメンツ</item>
+        <item>ユミル</item>
+        <item>ヨシダさん</item>
+        <item>ラキラキ</item>
+        <item>ラクエン</item>
+        <item>ラストセンチュリーメランコリック</item>
+        <item>ラブキラ☆スプラッシュ</item>
+        <item>ランカーキラーガール</item>
+        <item>リグレット</item>
+        <item>リリーゼと炎龍レーヴァテイン</item>
+        <item>ワルツ第17番 ト短調”大犬のワルツ”</item>
+        <item>下弦の月</item>
+        <item>不沈艦CANDY</item>
+        <item>中華急行</item>
+        <item>九尾狐夜行</item>
+        <item>令和(1991RAVE REMIX)</item>
+        <item>仮想空間の旅人たち</item>
+        <item>俺ら東京さ行ぐだ</item>
+        <item>共犯へヴンズコード</item>
+        <item>共鳴遊戯の華</item>
+        <item>冥</item>
+        <item>冬椿 ft. Kanae Asaba</item>
+        <item>凛として咲く花の如く</item>
+        <item>刃図羅</item>
+        <item>創世ノート</item>
+        <item>十六夜セツナ</item>
+        <item>千年ノ理</item>
+        <item>卑弥呼</item>
+        <item>即席！脳直★ミュージックシステム</item>
+        <item>取り残された美術(Arranged:HiZuMi)</item>
+        <item>合体せよ！ストロングイェーガー！！ (Ryu☆ remix)</item>
+        <item>君のハートにロックオン</item>
+        <item>命の標本</item>
+        <item>嘆きの樹</item>
+        <item>夏の匂い。キミの残像。 ft. Kanae Asaba</item>
+        <item>夏色DIARY - L.E.D.-G STYLE MIX -</item>
+        <item>夕焼け ～Fading Day～</item>
+        <item>天空の夜明け</item>
+        <item>天空脳番長危機十六連打</item>
+        <item>太陽～T・A・I・Y・O～</item>
+        <item>妖隠し -あやかしかくし-</item>
+        <item>子供の落書き帳</item>
+        <item>少女アリスと箱庭幻想コンチェルト</item>
+        <item>少年A</item>
+        <item>少年は空を辿る</item>
+        <item>幻想系世界修復少女</item>
+        <item>廿</item>
+        <item>忍恋花</item>
+        <item>恋する☆宇宙戦争っ！！</item>
+        <item>恋は白帯、サンシロー</item>
+        <item>打打打打打打打打打打</item>
+        <item>抱きしめてモナムール</item>
+        <item>旅人リラン</item>
+        <item>旋律のドグマ～Miserables～</item>
+        <item>明鏡止水</item>
+        <item>星をこの手に</item>
+        <item>星屑ディスタンシア</item>
+        <item>時空トラベローグ</item>
+        <item>曼荼羅恋々</item>
+        <item>最小三倍完全数</item>
+        <item>月光</item>
+        <item>朝焼けから始まるボクらの小さな旅</item>
+        <item>朧</item>
+        <item>東京神話</item>
+        <item>桜</item>
+        <item>梅雪夜</item>
+        <item>次葉 -turn the page-</item>
+        <item>泰東ノ翠霞</item>
+        <item>津軽雪</item>
+        <item>海神</item>
+        <item>深愛のリグレット</item>
+        <item>深淵に捧ぐレクイエム</item>
+        <item>火影</item>
+        <item>灼熱 Pt.2 Long Train Running</item>
+        <item>灼熱Beach Side Bunny</item>
+        <item>炸裂！イェーガー電光チョップ！！(JAEGER FINAL ATTACK)</item>
+        <item>焔極OVERKILL</item>
+        <item>煉獄のエルフェリア</item>
+        <item>爆ゼニ☆がってんワーカー</item>
+        <item>牧神笛吹きて</item>
+        <item>狂イ咲ケ焔ノ華</item>
+        <item>獅子霞麗ノ舞</item>
+        <item>疾風迅雷</item>
+        <item>白露の風</item>
+        <item>真 地獄超特急 -HELL or HELL-</item>
+        <item>神謳 -RESONANCE-</item>
+        <item>禍根</item>
+        <item>突撃!ガラスのニーソ姫!</item>
+        <item>童話回廊</item>
+        <item>紅牡丹</item>
+        <item>純真可憐デザイア</item>
+        <item>紫陽花 -AZISAI-</item>
+        <item>罠</item>
+        <item>罪と罰</item>
+        <item>翼</item>
+        <item>聖人の塔</item>
+        <item>草原の王女-軌跡を辿って-</item>
+        <item>華爛漫 -Flowers-</item>
+        <item>華蝶風雪</item>
+        <item>華麗なる大犬円舞曲</item>
+        <item>虹色</item>
+        <item>蛇神</item>
+        <item>表裏一体！？怪盗いいんちょの悩み</item>
+        <item>衰色小町メランコリア</item>
+        <item>走馬灯 -The Last Song-</item>
+        <item>超!!遠距離らぶメ～ル</item>
+        <item>超青少年ノ為ノ超多幸ナ超古典的超舞曲</item>
+        <item>轟け！恋のビーンボール！！</item>
+        <item>追想快晴テーマパーク</item>
+        <item>量子の海のリントヴルム</item>
+        <item>金野火織の金色提言</item>
+        <item>錬成人間トリコロイダー</item>
+        <item>陽炎</item>
+        <item>雪月花</item>
+        <item>零 - ZERO -</item>
+        <item>電人、暁に斃れる。</item>
+        <item>革命</item>
+        <item>音楽</item>
+        <item>駅猫のワルツ</item>
+        <item>鬼天</item>
+        <item>鴉</item>
+        <item>麗 ～うらら～</item>
+        <item>黒髪乱れし修羅となりて</item>
+        <item>龍と少女とデコヒーレンス</item>
+        <item>龍王の霊廟(Mausoleum Of The Primal Dragon)</item>
+        <item>Ｘ↑Ｘ↓</item>
+    </string-array>
+</resources>
