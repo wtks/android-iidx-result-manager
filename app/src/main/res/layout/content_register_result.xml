@@ -54,8 +54,9 @@
                     android:id="@+id/textView_dateTime"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    app:layout_constraintBottom_toBottomOf="@+id/imageView_photo"
-                    app:layout_constraintEnd_toStartOf="@+id/imageView_photo"
+                    android:textColor="@android:color/white"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="@+id/imageView_photo"
                     app:layout_constraintStart_toStartOf="@+id/imageView_photo" />
             </androidx.constraintlayout.widget.ConstraintLayout>
 
