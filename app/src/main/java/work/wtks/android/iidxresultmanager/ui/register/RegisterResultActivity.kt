@@ -3,12 +3,14 @@ package work.wtks.android.iidxresultmanager.ui.register
 import android.icu.text.SimpleDateFormat
 import android.net.Uri
 import android.os.Bundle
+import android.text.Editable
 import android.view.View
 import android.widget.AdapterView
 import android.widget.ArrayAdapter
 import android.widget.Spinner
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.widget.doAfterTextChanged
 import androidx.exifinterface.media.ExifInterface
 import androidx.lifecycle.Observer
 import kotlinx.android.synthetic.main.activity_register_result.*
@@ -98,6 +100,8 @@ class RegisterResultActivity : AppCompatActivity() {
         viewModel.dateTime.observe(this, Observer {
             textView_dateTime.text = SimpleDateFormat.getDateTimeInstance().format(it)
         })
+
+        editText_memo.doAfterTextChanged { viewModel.memo.value = it?.toString() ?: return@doAfterTextChanged }
 
         val extra = intent.extras ?: return
         setImage(extra[ARG_PHOTO_URI] as Uri)
